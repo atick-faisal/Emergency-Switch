@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Location Sender</string>
+    <string name="open_maps">Open Google Maps</string>
+    <string name="send">Send Message</string>
+    <string name="location_information">Location Information</string>
+    <string name="location_not_available">Location is Not Available</string>
+    <string name="_880">+880</string>
+    <string name="send_google_map_location">Send Map Location</string>
+    <string name="or_you_can_use_volume_up_key_to_send_sms_to_default_number">Or you can use Volume UP key to send sms to default number.</string>
+    <string name="paired_devices_list">Paired Devices list</string>
+    <string name="turn_on_bluetooth">Turn on Bluetooth</string>
+    <string name="auto_send_location">Auto Send Location</string>
+    <string name="set_default_number">Set Default Number</string>
+    <string name="save">Save</string>
+    <string name="change">Change</string>
+</resources>
